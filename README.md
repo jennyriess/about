@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jennyriess
-- 👀 I’m interested in Web3 + eCommerce 
+- 👀 I’m interested in Web3 + eCommerce (Shopify)
 - 🌱 I’m currently learning Solidity + React
 - 💞️ I’m looking to collaborate on projects in HI
 - 📫 How to reach me info@riessdesigns.com
