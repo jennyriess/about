@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web3/eCommerce/Community
 - 🌱 I’m currently learning Solidity + React
 - 💞️ I’m looking to collaborate on projects in HI
-- 📫 How to reach me info@riessdesigns.com
+- 📫 How to reach me info@riessdesigns.com 
 
 <!---
 jennyriess/jennyriess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
